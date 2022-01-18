@@ -13,7 +13,7 @@ const owners = [
 
   {
     id: "827975272321777724",
-    post: "Bot Owner",
+    post: "Developer",
     GHURL: "https://github.com/christianwell",
     InstaURL: "https://instagram.com/",
     YTURL: "https://www.youtube.com/channel/UCfTteabdOTDibtrrJ5J6vzA",
